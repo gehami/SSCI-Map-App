@@ -1,0 +1,12 @@
+name: SSCI_Map
+title: SSCI_Map
+username:
+account: albertgehami
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 393920
+bundleId: 1514855
+url: https://albertgehami.shinyapps.io/SSCI_Map/
+when: 1533227412.3179
+asMultiple: FALSE
+asStatic: FALSE
